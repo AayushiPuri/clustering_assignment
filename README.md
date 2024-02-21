@@ -22,6 +22,6 @@ The Pre-Processing techniques I have used are:
 2. PCA (Principle Component Analysis)
 3. Transform
 # Submitted By
-Suhawni
-102103344
-3COE12
+Aayushi Puri
+102103676
+3COE24
